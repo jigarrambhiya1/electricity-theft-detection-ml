@@ -1,0 +1,32 @@
+# Dataset (too large for git - see data/README.md for download link)
+data/*.csv
+data/*.xlsx
+data/TDD2022*
+*.csv
+!results/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Trained models / large artifacts
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
