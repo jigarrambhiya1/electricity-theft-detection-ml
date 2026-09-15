@@ -100,13 +100,11 @@ All notebook outputs (CSVs, PNGs, PKLs) save into `results/`. Notebook outputs a
 
 ## Team — Group 11
 
-| Name                | Roll No. |
-| ------------------- | -------- |
-| Vedant Chaugule     | A007     |
-| Rajeshwari Majumdar | A033     |
-| Sarrah Pittalwala   | A044     |
-| Jigar Rambhiya      | A046     |
-| Symprose Remedios   | A049     |
+- Vedant Chaugule
+- Rajeshwari Majumdar
+- Sarrah Pittalwala
+- Jigar Rambhiya
+- Symprose Remedios
 
 **Mentor:** Dr. Pradnya Khandeparker
 **Institution:** Nilkamal School of Mathematics and Applied Statistics (NSoMASA), SVKM's NMIMS
